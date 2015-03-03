@@ -1,0 +1,117 @@
+<ul>
+	<li><a href="http://acse.union.shef.ac.uk/" title="Union">Acse</a></li>
+	<li><a href="http://aerosoc.union.shef.ac.uk/" title="Union">Aerosoc</a></li>
+	<li><a href="http://aetsoc.union.shef.ac.uk/" title="Union">Aetsoc</a></li>
+	<li><a href="http://aikido.union.shef.ac.uk/" title="Union">Aikido</a></li>
+
+	<li><a href="http://archery.union.shef.ac.uk/" title="Union">Archery</a></li>
+	<li><a href="http://assassins.union.shef.ac.uk/" title="Union">Assassins</a></li>
+	<li><a href="http://atheists.union.shef.ac.uk/" title="Union">Atheists</a></li>
+	<li><a href="http://badminton.union.shef.ac.uk/" title="Union">Badminton</a></li>
+	<li><a href="http://bmeng.union.shef.ac.uk/" title="Union">Bmeng</a></li>
+	<li><a href="http://bummit.union.shef.ac.uk/" title="Union">Bummit</a></li>
+
+	<li><a href="http://canoe.union.shef.ac.uk/" title="Union">Canoe</a></li>
+	<li><a href="http://canvas.union.shef.ac.uk/" title="Union">Canvas</a></li>
+	<li><a href="http://ccf.union.shef.ac.uk/" title="Union">Ccf</a></li>
+	<li><a href="http://cclub.union.shef.ac.uk/" title="Union">Cclub</a></li>
+	<li><a href="http://cercle-francais.union.shef.ac.uk/" title="Union">Cercle Francais</a></li>
+	<li><a href="http://cheerleading.union.shef.ac.uk/" title="Union">Cheerleading</a></li>
+
+	<li><a href="http://chess.union.shef.ac.uk/" title="Union">Chess</a></li>
+	<li><a href="http://christianunion.union.shef.ac.uk/" title="Union">Christianunion</a></li>
+	<li><a href="http://compsci.union.shef.ac.uk/" title="Union">Compsci</a></li>
+	<li><a href="http://conservation.union.shef.ac.uk/" title="Union">Conservation</a></li>
+	<li><a href="http://cycling.union.shef.ac.uk/" title="Union">Cycling</a></li>
+	<li><a href="http://dancesport.union.shef.ac.uk/" title="Union">Dancesport</a></li>
+
+	<li><a href="http://ddsf.union.shef.ac.uk/" title="Union">Ddsf</a></li>
+	<li><a href="http://debate.union.shef.ac.uk/" title="Union">Debate</a></li>
+	<li><a href="http://deutscher-verein.union.shef.ac.uk/" title="Union">Deutscher Verein</a></li>
+	<li><a href="http://dofe.union.shef.ac.uk/" title="Union">Dofe</a></li>
+	<li><a href="http://eeesoc.union.shef.ac.uk/" title="Union">Eeesoc</a></li>
+	<li><a href="http://eestec.union.shef.ac.uk/" title="Union">Eestec</a></li>
+
+	<li><a href="http://enc.union.shef.ac.uk/" title="Union">Enc</a></li>
+	<li><a href="http://equestrian.union.shef.ac.uk/" title="Union">Equestrian</a></li>
+	<li><a href="http://eurosociety.union.shef.ac.uk/" title="Union">Eurosociety</a></li>
+	<li><a href="http://ewb.union.shef.ac.uk/" title="Union">Ewb</a></li>
+	<li><a href="http://fencing.union.shef.ac.uk/" title="Union">Fencing</a></li>
+	<li><a href="http://filmunit.union.shef.ac.uk/" title="Union">Filmunit</a></li>
+
+	<li><a href="http://fss.union.shef.ac.uk/" title="Union">Fss</a></li>
+	<li><a href="http://gospelchoir.union.shef.ac.uk/" title="Union">Gospelchoir</a></li>
+	<li><a href="http://highpeakclub.union.shef.ac.uk/" title="Union">Highpeakclub</a></li>
+	<li><a href="http://hksoc.union.shef.ac.uk/" title="Union">Hksoc</a></li>
+	<li><a href="http://infosoc.union.shef.ac.uk/" title="Union">Infosoc</a></li>
+	<li><a href="http://irs.union.shef.ac.uk/" title="Union">Irs</a></li>
+
+	<li><a href="http://isc.union.shef.ac.uk/" title="Union">Isc</a></li>
+	<li><a href="http://islam-circle.union.shef.ac.uk/" title="Union">Islam Circle</a></li>
+	<li><a href="http://japansoc.union.shef.ac.uk/" title="Union">Japansoc</a></li>
+	<li><a href="http://jitsu.union.shef.ac.uk/" title="Union">Jitsu</a></li>
+	<li><a href="http://labourstudents.union.shef.ac.uk/" title="Union">Labourstudents</a></li>
+	<li><a href="http://lgb.union.shef.ac.uk/" title="Union">Lgb</a></li>
+
+	<li><a href="http://marrow.union.shef.ac.uk/" title="Union">Marrow</a></li>
+	<li><a href="http://massoc.union.shef.ac.uk/" title="Union">Massoc</a></li>
+	<li><a href="http://medicschoir.union.shef.ac.uk/" title="Union">Medicschoir</a></li>
+	<li><a href="http://medicsorchestra.union.shef.ac.uk/" title="Union">Medicsorchestra</a></li>
+	<li><a href="http://medicsrugby.union.shef.ac.uk/" title="Union">Medicsrugby</a></li>
+	<li><a href="http://medieval.union.shef.ac.uk/" title="Union">Medieval</a></li>
+
+	<li><a href="http://mentalhealthmatters.union.shef.ac.uk/" title="Union">Mentalhealthmatters</a></li>
+	<li><a href="http://mex-lat-soc.union.shef.ac.uk/" title="Union">Mex Lat Soc</a></li>
+	<li><a href="http://musicplayers.union.shef.ac.uk/" title="Union">Musicplayers</a></li>
+	<li><a href="http://nightline.union.shef.ac.uk/" title="Union">Nightline</a></li>
+	<li><a href="http://noddsoc.union.shef.ac.uk/" title="Union">Noddsoc</a></li>
+	<li><a href="http://pandp.union.shef.ac.uk/" title="Union">Pandp</a></li>
+
+	<li><a href="http://photosoc.union.shef.ac.uk/" title="Union">Photosoc</a></li>
+	<li><a href="http://physoc.union.shef.ac.uk/" title="Union">Physoc</a></li>
+	<li><a href="http://platformfestival.union.shef.ac.uk/" title="Union">Platformfestival</a></li>
+	<li><a href="http://polsoc.union.shef.ac.uk/" title="Union">Polsoc</a></li>
+	<li><a href="http://quasoc.union.shef.ac.uk/" title="Union">Quasoc</a></li>
+	<li><a href="http://realale.union.shef.ac.uk/" title="Union">Realale</a></li>
+
+	<li><a href="http://rocksoc.union.shef.ac.uk/" title="Union">Rocksoc</a></li>
+	<li><a href="http://rowing.union.shef.ac.uk/" title="Union">Rowing</a></li>
+	<li><a href="http://sabres.union.shef.ac.uk/" title="Union">Sabres</a></li>
+	<li><a href="http://sailing.union.shef.ac.uk/" title="Union">Sailing</a></li>
+	<li><a href="http://samba.union.shef.ac.uk/" title="Union">Samba</a></li>
+	<li><a href="http://saw.union.shef.ac.uk/" title="Union">Saw</a></li>
+
+	<li><a href="http://scm.union.shef.ac.uk/" title="Union">Student Christian Movement</a></li>
+	<li><a href="http://sesp.union.shef.ac.uk/" title="Union">Sesp</a></li>
+	<li><a href="http://shuoc.union.shef.ac.uk/" title="Union">Shuoc</a></li>
+	<li><a href="http://singsoc.union.shef.ac.uk/" title="Union">Singsoc</a></li>
+	<li><a href="http://slugs.union.shef.ac.uk/" title="Union">Slugs</a></li>
+	<li><a href="http://snowboarding.union.shef.ac.uk/" title="Union">Snowboarding</a></li>
+
+	<li><a href="http://socialist-students.union.shef.ac.uk/" title="Union">Socialist Students</a></li>
+	<li><a href="http://stitchsoc.union.shef.ac.uk/" title="Union">Stitchsoc</a></li>
+	<li><a href="http://streetdance.union.shef.ac.uk/" title="Union">Streetdance</a></li>
+	<li><a href="http://studentstopaids.union.shef.ac.uk/" title="Union">Studentstopaids</a></li>
+	<li><a href="http://sucfa.union.shef.ac.uk/" title="Union">Chinese Football Association</a></li>
+	<li><a href="http://sugcr.union.shef.ac.uk/" title="Union">Sugcr</a></li>
+
+	<li><a href="http://supas.union.shef.ac.uk/" title="Union">Supas</a></li>
+	<li><a href="http://suss.union.shef.ac.uk/" title="Union">Suss</a></li>
+	<li><a href="http://sutco.union.shef.ac.uk/" title="Union">Sutco</a></li>
+	<li><a href="http://suwc.union.shef.ac.uk/" title="Union">Walking Club</a></li>
+	<li><a href="http://swing-dance.union.shef.ac.uk/" title="Union">Swing Dance</a></li>
+	<li><a href="http://taekwondo.union.shef.ac.uk/" title="Union">Taekwondo</a></li>
+
+	<li><a href="http://teapots.union.shef.ac.uk/" title="Union">Teapots</a></li>
+	<li><a href="http://thai.union.shef.ac.uk/" title="Union">Thai</a></li>
+	<li><a href="http://tories.union.shef.ac.uk/" title="Union">Tories</a></li>
+	<li><a href="http://trampolining.union.shef.ac.uk/" title="Union">Trampolining</a></li>
+	<li><a href="http://tsc.union.shef.ac.uk/" title="Union">Tsc</a></li>
+	<li><a href="http://turkish.union.shef.ac.uk/" title="Union">Turkish</a></li>
+
+	<li><a href="http://ukip.union.shef.ac.uk/" title="Union">Ukip</a></li>
+	<li><a href="http://ultimate.union.shef.ac.uk/" title="Union">Ultimate</a></li>
+	<li><a href="http://unicef.union.shef.ac.uk/" title="Union">Unicef</a></li>
+	<li><a href="http://vietsoc.union.shef.ac.uk/" title="Union">Vietsoc</a></li>
+	<li><a href="http://wargamessoc.union.shef.ac.uk/" title="Union">Wargamessoc</a></li>
+	</ul>

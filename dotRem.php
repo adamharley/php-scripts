@@ -1,0 +1,22 @@
+<?
+// Otter's ultra-useful ultra-unsafe manga chapter sorter!
+// Written for use sorting Ichigo 100% on the 11th of March 2005 (Red Nose Day, which I didn't get to celebrate ;.;) and finished on the 12th
+// Settings will need to be tweaked for any other manga
+
+if ($handle = opendir('.')) {
+	while (false !== ($file = readdir($handle))) { 
+		if ($file != "." && $file != "..") {
+			if (strtolower(substr($file, -4)) == '.jpg' || strtolower(substr($file, -4)) == '.php')
+				continue;
+			list($trackNo, $songName) = explode('-', $file);
+			$parts = explode('.', $songName);
+			$newName = $trackNo . ' - ' . substr(implode(' ', $parts), 0, -4) . '.' . $parts[count($parts) - 1];
+			if (rename($file, $newName) === FALSE)
+				echo "Failed to rename {$file} to " . $newName . chr(10);
+			else
+				echo "Renamed {$file} to " . $newName . chr(10);
+		}
+	}
+}
+	closedir($handle);
+?>
